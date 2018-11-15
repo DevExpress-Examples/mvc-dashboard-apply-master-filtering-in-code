@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/MvcDashboard_SetMasterFilter/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/MvcDashboard_SetMasterFilter/Controllers/HomeController.vb))
+* [Global.asax.cs](./CS/MvcDashboard_SetMasterFilter/Global.asax.cs) (VB: [Global.asax.vb](./VB/MvcDashboard_SetMasterFilter/Global.asax.vb))
+* [MasterFiltering.js](./CS/MvcDashboard_SetMasterFilter/Scripts/MasterFiltering.js) (VB: [MasterFiltering.js](./VB/MvcDashboard_SetMasterFilter/Scripts/MasterFiltering.js))
+* [Index.cshtml](./CS/MvcDashboard_SetMasterFilter/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/MvcDashboard_SetMasterFilter/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # ASP.NET MVC Dashboard - How to apply master filtering in code
 
 

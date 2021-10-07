@@ -12,7 +12,7 @@ namespace MvcDashboard_SetMasterFilter
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
             routes.IgnoreRoute("{resource}.ashx/{*pathInfo}");
-            routes.MapDashboardRoute();
+            routes.MapDashboardRoute("dashboardControl", "DefaultDashboard");
 
             routes.MapRoute(
                 "Default",
